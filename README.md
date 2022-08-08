@@ -6,8 +6,29 @@ In the 1998, The Lancet published a research paper that claimed that there was a
 
 This data analysis aims to take both a broad look at vaccination and exemption rates and a much more focused look on counties between the year 2000 and 2014. The vaccination rates from 2000 to 2014 has dropped and exemption rates have gone up. While taking a look at the top 3 counties in vaccination rates shows us that some areas weren't that heavily affected by this, the counties with the lower vaccination rates tell us a different story. 
 
-The top 3 counties with the lowest vaccination rates are much more scattered. It's not the same recurring counties like it is for the high vaccination rates data. Taking a look at the lowest vaccination rates, you can see that there are drastic changes between the years 2000 and 2014. Some counties deal with a drop in vaccination rates, while just a few others experience a rise in vaccination rates. What could have triggered these drastic changes? Could it have to do with the Lancet paper for those counties that dropped? Or does it have to do with a change in political/religious beliefs in these areas? Does the area of these counties play a factor? For example, does a rural or modern area have better vaccination rates than the other? 
-# Data Analysis 
+The top 3 counties with the lowest vaccination rates are much more scattered. It's not the same recurring counties like it is for the high vaccination rates data. Taking a look at the lowest vaccination rates, you can see that there are drastic changes between the years 2000 and 2014. Some counties deal with a drop in vaccination rates, while just a few others experience a rise in vaccination rates. What could have triggered these drastic changes? Could it have to do with the Lancet paper for those counties that dropped? Or does it have to do with a change in political/religious beliefs in these areas? Does the area of these counties play a factor? For example, does a rural or modern area have better vaccination rates than the other? This data can only tell us so much, an in-depth analysis on these counties and the residents, laws, influences, and much more need to be explored. Focusing on those counties that have had drastic changes will be key to answering these questions as well as bringing up more.
+
+# Sources
+I analyized the [California Kindergarten Immunization Rates](https://www.kaggle.com/datasets/broach/california-kindergarten-immunization-rates?select=StudentData.csv) from the California Department of Public Health with a focus on the kindergarten immunization statistics. 
+
+**Interview Contacts**
+ 
+1. Glenda Deputy, School Board Seat B, President
+* Email: glendajeanma@gmail.com
+* Phone: 775-578-3777
+* As one of the board members of the Humboldt School District, I believe they can gave a lot of information regarding why there has been a drastic decrease in vaccination rates for their kindergarteners. It'll be a great place to start with considering how low the vaccination rates have gotten and to see if it's a trend with other grades as well. 
+2. Ramiro Moreno, President of San Benito School District
+* Email: morenor@sbcisd.net 
+* Another president of a school district that has seen a drastic change in vaccination rates. However, this school district has seen an increase in vaccination rates. Just like the Humboldt school district, this would be to a great contact to find out what has been done to get their rates up. With this contact, there'll be two sides of the stories being explored. 
+
+**Additional Sources**
+
+1. Senate Bill 277 in Humboldt County[Senate Bill 277 in Humboldt County](https://humboldtgov.org/DocumentCenter/View/54431/1---Vaccination---Implementation-of-Senate-Bill-277-in-Humboldt-County?bidId=)
+* This document states how humboldt county has the fifth lowest vaccination rate and one of the highest personal belief exemptions rates in the state. 
+* This document should bring up more questions onto why there aren't higher vaccination rates in the county, considering the chances of getting whooping cough, which are pretty high and can be fatal for children, as well. 
+2. 
+
+ # Data Analysis 
 
 1. What were the immunization rates for the year 2000 and 2015? 
 
