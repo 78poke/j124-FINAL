@@ -120,3 +120,25 @@ There are 9 different counties in total from this data, no county shows up twice
 
 5. Which counties with the lowest vaccination rates have increases or decreases in their vacciantion rates from 2000 to 2014? 
 
+For this pivot table, a filter to choose the 8 counties from question 4 will be needed(Tuolumne was excluded as it had no data for 2014). 
+
+<img width="285" alt="j124 q5 filter" src="https://user-images.githubusercontent.com/88923290/183428693-3479272a-acdf-4ca8-9768-94ef1b866b3a.png">
+
+>just like the year filter, clear all and search/select the counties needed
+
+First pivot table will be for MMR
+
+<img width="405" alt="j124 q5 nMMR" src="https://user-images.githubusercontent.com/88923290/183428910-85cb8fdf-b8da-44ca-a091-8e06bb3fdb6e.png">
+
+Year 2000 to 2014- Humboldt decreased by 14.1%, Nevada decreased by 10.2%, Placer increased by 3.7%, San Benito increased by 19.1%, San Luis Obispo decreased by 11.5%, Santa Barbara increased by 9.7%, Santa Cruz decreased by 0.1%, Shasta decreased by 12.5%.
+
+DTP, create a copy of the previous pivot table and repplace nMMR/NS with nDTP/NS. Do the same for Polio. 
+
+<img width="408" alt="j124 q5 nDTP" src="https://user-images.githubusercontent.com/88923290/183430369-45ccab6c-fb4b-4ded-aaa1-ea18fe67f83b.png">
+
+Year 2000 to 2014- Humboldt decreased by 12.2%, Nevada decreased by 6.9%, Placer increased by 4%, San Benito icnreased by 14.5%, San Luis Obispo decreased by 12%, Santa Barbara increased by 8.7%, Santa Cruz decreased by 4.1%, Shasta decreased by 12.6%.
+
+Polio
+
+<img width="411" alt="j124 q5 nPolio" src="https://user-images.githubusercontent.com/88923290/183431295-c58f1325-eac0-419d-ae7a-70c3ed916a72.png">
+
