@@ -181,3 +181,7 @@ Drastic changes in vaccination rates can be seen throughout each pivot table. Hu
 
 ![yfAAf-polio-rates](https://user-images.githubusercontent.com/88923290/183448211-435a76b3-5afd-473f-9ed2-b531c2514d9e.png)
 
+![yfAAf-dtp-rates](https://user-images.githubusercontent.com/88923290/183448715-f86ca556-dbd3-4b28-8e1c-853298f8d8c7.png)
+
+
+![yfAAf-mmr-rates (1)](https://user-images.githubusercontent.com/88923290/183448881-d7d58578-7715-4ded-bd02-ada3457a34b3.png)
