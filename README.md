@@ -26,8 +26,9 @@ I analyized the [California Kindergarten Immunization Rates](https://www.kaggle.
 1. Senate Bill 277 in Humboldt County[Senate Bill 277 in Humboldt County](https://humboldtgov.org/DocumentCenter/View/54431/1---Vaccination---Implementation-of-Senate-Bill-277-in-Humboldt-County?bidId=)
 * This document states how humboldt county has the fifth lowest vaccination rate and one of the highest personal belief exemptions rates in the state. 
 * This document should bring up more questions onto why there aren't higher vaccination rates in the county, considering the chances of getting whooping cough, which are pretty high and can be fatal for children, as well. 
-2. 
-
+2. [Personal Beliefs Exemptions](https://fsi.stanford.edu/news/vaccination-rates-climb-california-after-personal-belief-exemptions-curbed)
+* An article that could question/challenge personal belief exemptions. 
+* It is stated how vaccines shouldn't be exempt as anybody afraid or cautious about them are misinformed. The facts and science behind vaccinations are enough to require people to have them. Will be interesting for counties that have high exemption rates. 
  # Data Analysis 
 
 1. What were the immunization rates for the year 2000 and 2015? 
@@ -175,3 +176,8 @@ Polio
 Year 2000 to 2014- Humboldt decreased by 13.2%, Nevada decreased by 4.9%, Placer increased by 2.4%, San Benito increased by 14.5%, San Luis Obispo decreased by 12.9%, Santa Barbara increased by 10.2%, Santa Cruz decreased by 4.4%, Shasta decreased by 10.8%. 
 
 Drastic changes in vaccination rates can be seen throughout each pivot table. Humboldt, Nevada, San Luis Obispo, Santa Cruz and Shasta all had a decrease in vaccination rates from 2000 to 2014. Placer, San Benito, and Santa Barbara had increases in vaccination rates from 2000 to 2014. 
+
+# Data Visualizations
+
+![yfAAf-polio-rates](https://user-images.githubusercontent.com/88923290/183448211-435a76b3-5afd-473f-9ed2-b531c2514d9e.png)
+
