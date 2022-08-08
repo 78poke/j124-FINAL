@@ -98,7 +98,7 @@ MMR year 2014
 
 <img width="305" alt="q4 nmmr 2014" src="https://user-images.githubusercontent.com/88923290/183425972-e1e500ac-1fb2-400f-877b-c40068724a47.png">
 
-DTP year 2
+DTP year 2000
 
 <img width="310" alt="j124 q4 year 2000 nDTP" src="https://user-images.githubusercontent.com/88923290/183426009-5ef3c705-210a-4502-981f-edc03ab813a3.png">
 
@@ -115,4 +115,8 @@ Polio year 2000
 Polio year 2014
 
 <img width="304" alt="j124 q4 nPolio 2014" src="https://user-images.githubusercontent.com/88923290/183426198-f8db2c25-40a1-48e9-a259-5cb6c802ea43.png">
+
+There are 9 different counties in total from this data, no county shows up twice in the same vaccination chart.  
+
+5. Which counties with the lowest vaccination rates have increases or decreases in their vacciantion rates from 2000 to 2014? 
 
