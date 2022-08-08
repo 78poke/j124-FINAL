@@ -58,4 +58,27 @@ In order to find the three counties with the highest vaccination rates, the *Ord
  
 <img width="312" alt="j124 q3 5" src="https://user-images.githubusercontent.com/88923290/183422881-0cb5e450-29a7-4b31-b9f9-01f53f54284c.png">
 
-Starting with nMMR
+MMR year 2000 
+
+<img width="306" alt="nmmr 2000 q3 " src="https://user-images.githubusercontent.com/88923290/183424329-edd485c9-ac13-4a17-80fa-8ac3e7327408.png">
+
+MMR year 2014
+
+<img width="306" alt="j124 q3 2014 nmmr" src="https://user-images.githubusercontent.com/88923290/183424380-7bb001d8-e99b-43a3-8044-2142b9926209.png">
+
+DTP year 2000
+
+<img width="307" alt="ndtp2000 q3" src="https://user-images.githubusercontent.com/88923290/183424460-8786c5bd-e56d-4fd9-9d8a-39b376168503.png">
+
+DTP year 2014
+
+<img width="304" alt="j124 q3 nDTP 2014" src="https://user-images.githubusercontent.com/88923290/183424521-446a7eea-8291-472b-ba5f-6026fa8aa943.png">
+
+Polio year 2000 
+
+<img width="306" alt="npolio 2000 q3" src="https://user-images.githubusercontent.com/88923290/183424632-6c20026d-1876-4751-b649-d32f5e1634e5.png">
+
+Polio year 2014
+
+<img width="303" alt="j124 q3 nPolio 2014" src="https://user-images.githubusercontent.com/88923290/183424667-2654959f-d678-409e-8d90-0975f32a2464.png">
+
