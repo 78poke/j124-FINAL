@@ -82,3 +82,37 @@ Polio year 2014
 
 <img width="303" alt="j124 q3 nPolio 2014" src="https://user-images.githubusercontent.com/88923290/183424667-2654959f-d678-409e-8d90-0975f32a2464.png">
 
+There are 4 counties, with all one recurring more than once. Yuba was constant in all data sets. 
+
+4. Which counties had the lowest vaccination rates in 2000? 2014? 
+
+A duplicate of the same pivot table used for question 3 can be used for this question. All that needs to be changed is *Order* from descending to acending.
+
+<img width="286" alt="j124 q4 ascending" src="https://user-images.githubusercontent.com/88923290/183425746-0a85fef5-1401-4ae4-b18a-f2f4c383f222.png">
+
+MMR year 2000 
+
+<img width="303" alt="q4 nmmr 2000" src="https://user-images.githubusercontent.com/88923290/183425947-cd7cfb60-2a72-406c-a190-80a53c643769.png">
+
+MMR year 2014 
+
+<img width="305" alt="q4 nmmr 2014" src="https://user-images.githubusercontent.com/88923290/183425972-e1e500ac-1fb2-400f-877b-c40068724a47.png">
+
+DTP year 2
+
+<img width="310" alt="j124 q4 year 2000 nDTP" src="https://user-images.githubusercontent.com/88923290/183426009-5ef3c705-210a-4502-981f-edc03ab813a3.png">
+
+
+DTP year 2014
+
+<img width="309" alt="j124 q4 year 2014 nDTP" src="https://user-images.githubusercontent.com/88923290/183426074-ef72f8a9-0ee7-4ae8-a5d2-6834a8b54537.png">
+
+
+Polio year 2000
+
+<img width="307" alt="j124 q4 nPolio 2000" src="https://user-images.githubusercontent.com/88923290/183426169-5dbdfcc1-c29f-40df-b61b-491df93a3860.png">
+
+Polio year 2014
+
+<img width="304" alt="j124 q4 nPolio 2014" src="https://user-images.githubusercontent.com/88923290/183426198-f8db2c25-40a1-48e9-a259-5cb6c802ea43.png">
+
