@@ -132,13 +132,20 @@ First pivot table will be for MMR
 
 Year 2000 to 2014- Humboldt decreased by 14.1%, Nevada decreased by 10.2%, Placer increased by 3.7%, San Benito increased by 19.1%, San Luis Obispo decreased by 11.5%, Santa Barbara increased by 9.7%, Santa Cruz decreased by 0.1%, Shasta decreased by 12.5%.
 
+Almost all counties had a drastic change from 2000 to 2014. 
+
 DTP, create a copy of the previous pivot table and repplace nMMR/NS with nDTP/NS. Do the same for Polio. 
 
 <img width="408" alt="j124 q5 nDTP" src="https://user-images.githubusercontent.com/88923290/183430369-45ccab6c-fb4b-4ded-aaa1-ea18fe67f83b.png">
 
 Year 2000 to 2014- Humboldt decreased by 12.2%, Nevada decreased by 6.9%, Placer increased by 4%, San Benito icnreased by 14.5%, San Luis Obispo decreased by 12%, Santa Barbara increased by 8.7%, Santa Cruz decreased by 4.1%, Shasta decreased by 12.6%.
 
+Once again counties have shown drastic changes in vaccination rates. 
+
 Polio
 
 <img width="411" alt="j124 q5 nPolio" src="https://user-images.githubusercontent.com/88923290/183431295-c58f1325-eac0-419d-ae7a-70c3ed916a72.png">
 
+Year 2000 to 2014- Humboldt decreased by 13.2%, Nevada decreased by 4.9%, Placer increased by 2.4%, San Benito increased by 14.5%, San Luis Obispo decreased by 12.9%, Santa Barbara increased by 10.2%, Santa Cruz decreased by 4.4%, Shasta decreased by 10.8%. 
+
+Drastic changes in vaccination rates can be seen throughout each pivot table. Humboldt, Nevada, San Luis Obispo, Santa Cruz and Shasta all had a decrease in vaccination rates from 2000 to 2014. Placer, San Benito, and Santa Barbara had increases in vaccination rates from 2000 to 2014. 
