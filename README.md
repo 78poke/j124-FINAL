@@ -2,6 +2,11 @@
 
 # Summary 
 
+In the 1998, The Lancet published a research paper that claimed that there was a connection between the MMR vaccine and Autism disorders. The paper was highly controversial and caused quite a stir as the lead author had financial conflicts of interest and allegedly manipulated the study data. The paper wasn't retracted until 2010, which was more than enough time for it to leave its mark on the future of not only MMR vaccines, but all vaccines in general.
+
+This data analysis aims to take both a broad look at vaccination and exemption rates and a much more focused look on counties between the year 2000 and 2014. The vaccination rates from 2000 to 2014 has dropped and exemption rates have gone up. While taking a look at the top 3 counties in vaccination rates shows us that some areas weren't that heavily affected by this, the counties with the lower vaccination rates tell us a different story. 
+
+The top 3 counties with the lowest vaccination rates are much more scattered. It's not the same recurring counties like it is for the high vaccination rates data. Taking a look at the lowest vaccination rates, you can see that there are drastic changes between the years 2000 and 2014. Some counties deal with a drop in vaccination rates, while just a few others experience a rise in vaccination rates. What could have triggered these drastic changes? Could it have to do with the Lancet paper for those counties that dropped? Or does it have to do with a change in political/religious beliefs in these areas? Does the area of these counties play a factor? For example, does a rural or modern area have better vaccination rates than the other? 
 # Data Analysis 
 
 1. What were the immunization rates for the year 2000 and 2015? 
